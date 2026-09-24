@@ -3,6 +3,7 @@ package edu.cit.franza.notification;
 import edu.cit.franza.events.LowStock;
 import edu.cit.franza.events.OrderPlaced;
 import edu.cit.franza.events.OrderRejected;
+import edu.cit.franza.supplier.SupplierGateway;
 import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Component;
 

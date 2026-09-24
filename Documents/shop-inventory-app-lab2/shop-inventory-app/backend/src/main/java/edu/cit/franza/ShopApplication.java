@@ -2,6 +2,7 @@ package edu.cit.franza;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
  * Single Spring Boot entry point for the whole application.
